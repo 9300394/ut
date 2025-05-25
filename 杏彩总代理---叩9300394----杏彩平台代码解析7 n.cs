@@ -26,8 +26,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("µHttpSharp")]
-[assembly: AssemblyCopyright("Copyright © 2011")]
+[assembly: AssemblyProduct("ÂµHttpSharp")]
+[assembly: AssemblyCopyright("Copyright Â© 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
